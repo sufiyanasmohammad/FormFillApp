@@ -5,19 +5,23 @@
     <hr>
     <br>
 
-    <label for="email"><b>Name</b></label>
+    <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
+
+    <label for="mother"><b>Mother Name</b></label>
+    <input type="text" placeholder="Mother  Name" name="mother" id="mother" required>
     <br>
 
     <label for="New email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="email"><b>Aadhar Number</b></label>
+    <label for="aadhar"><b>Aadhar Number</b></label>
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="email"><b>PAN Number</b></label>
+    <label for="PAN"><b>PAN Number</b></label>
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
